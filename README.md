@@ -1,0 +1,1 @@
+# config soubmodule for spring-boot boiler plate
